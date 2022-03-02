@@ -40,3 +40,21 @@ Redesigned delivery system for motor control
 - Wrote report for wear testing of artificial heart valves
 - **_Technologies used:_** Arduino, Stepper Motors, SolidWorks, 3D Printing
 <br><br>
+
+## Projects
+
+**RISC V Core** _(Sep 2021 - Present)_
+Simple Von Neumann RISC V Core that implements RV32I
+- Designed architecture and components for synthesizable RV32I core
+- Used UVM philosophy for testing using Verilator
+<br><br>
+
+**General Purpose Cordic Unit** _(Feb 2022 - Present)_
+Cordic algorithm unit that implement trigonometric, linear, and hyperbolic calculations
+- Designed architecture for for CORDIC processing unit
+- Used UVM philosophy for testing using Verilator
+<br><br>
+
+**MP3 Player** _(May 2021 - Present)_
+- Worked on STM32 discovery board to run successful MP3 Player
+- Used FreeRTOS to create real time application
