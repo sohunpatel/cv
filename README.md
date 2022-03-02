@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Sohun Patel
 
-You can use the [editor on GitHub](https://github.com/sohunpatel/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mechatronics Engineering Student at University of Waterloo <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:sohunpatel@gmail.com) / [Website](sohunpatel.github.io/cv) / [LinkedIn](https://www.linkedin.com/in/sohun-patel) / [GitHub](https://github.com/sohunpatel)
 
-### Markdown
+## Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Biomedical / Electronic Research Engineer** @ [Krembil Computational Neuroscience](https://kcnhub.com/) _(Jan 2022 - Present)_ <br>
+Developing hardware architecture and implementation for Spiking Neural Networks.
+- Designed logic for computation of membrane potential based on Morris-Lecar equations
+- Created an interface for ZYNQ processing system using PYNQ and AXI bus
+- **_Technologies used:_** Vitis HLS, Vivado, ZYNQ, PYNQ, AXI
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Mechanical Engineer Intern** @ [Amphenol Canada Corporation](https://www.amphenolcanada.com/) _(May 2021 - Aug 2021)_ <br>
+Created new designs for contacts and their testplans
+- Redesigned knife switch to lower production costs
+- Designed knife switch contact to be made of one compliant sheet metal part
+- **_Technologies used:_** SolidWorks, AutoCAD
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Software Developer** @ [Siemens Healthineers](https://www.siemens-healthineers.com/blood-gas/blood-gas-systems/epoc-blood-analysis-system) _(Sep 2020 - Dec 2020)_ <br>
+Created dual role USB drivers
+- Developed USB Dual Role driver to reduce number of ports required
+- Created Android application to test USB communication
+- **_Technologies used:_** IAR Embedded Studio, STM32CubeMX, Android Studio
+<br><br>
 
-- Bulleted
-- List
+**R&D Technician** @ [Millipede Medical](http://www.millipedemedical.com/) _(Jan 2020 - Mar 2020)_ <br>
+Designed new parts for tooling and wrote documentation
+- Designed tooling and fixtures to improve electrical safety
+- Write test methods for inspection of 3rd party parts
+- **_Technologies used:_** SolidWorks, Octave
+<br><br>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sohunpatel/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**R&D Associate** @ [Boston Scientific](https://www.bostonscientific.com/en-US/medical-specialties/structural-heart/lotus-edge.html) _(May 2019 - Aug 2019)_ <br>
+Redesigned delivery system for motor control
+- Designed Arduino based system for testing delivery system
+- Wrote report for wear testing of artificial heart valves
+- **_Technologies used:_** Arduino, Stepper Motors, SolidWorks, 3D Printing
+<br><br>
